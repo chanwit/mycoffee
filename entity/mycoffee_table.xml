@@ -5,7 +5,7 @@
 
     <entity package-name="mycoffee" entity-name="Table">
         <field name="tableId" type="id" is-pk="true"/>
-        <field name="capacity" type="integer"/>
+        <field name="capacity" type="Integer"/>
     </entity>
 
 </entities>
