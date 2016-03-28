@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<entity-facade-xml type="seed">
+
+    <mycoffee.Table tableId="1" capacity="2"/>
+    <mycoffee.Table tableId="2" capacity="4"/>
+
+</entity-facade-xml>
